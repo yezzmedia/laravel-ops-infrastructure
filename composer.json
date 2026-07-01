@@ -1,6 +1,6 @@
 {
     "name": "yezzmedia/laravel-ops-infrastructure",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Live infrastructure posture diagnostics for the Yezz Media Laravel website platform.",
     "type": "library",
     "license": "MIT",
